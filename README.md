@@ -13,9 +13,9 @@ Once upon a time, I need to send wechat messages to someone or some chatrooms sc
 - [itchat](https://itchat.readthedocs.io/zh/latest)
 ## Read More
 
-'''json
+~~~json
 {
   "主页": "guitarliu.github.io",
   "公众号": "Guitarliu"
 }
-'''
+~~~
